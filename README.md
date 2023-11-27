@@ -10,7 +10,7 @@
 2. Scan Qr
     <br>
 (en cours de développement) 
-### INRL-MD Deploy Methods
+### Mecha Orion-md Deploy Methods
 
 -------
 
