@@ -59,5 +59,7 @@ SUPPORT GROUP
 
 [Click Here]
 (en cours de développement)
-
+## Developpeur :
+ 
+  [**Cyber emoji**](https://github.com/Emojioff/Mecha-Orion-md.git)  <br>
 ---
