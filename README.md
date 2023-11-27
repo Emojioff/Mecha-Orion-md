@@ -21,14 +21,18 @@
 <a href='' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ---
-#### Deploy To Railway
-(en cours de développement)
----
 #### Deploy To Koyeb
-(en cours de développement)
----
-#### Deploy To Replit
-(en cours de développement)
+1. If You don't have a account in koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+3. Get [DATABASE_URL](en cours de développement) 
+
+4. Get [Koyeb api key](https://app.koyeb.com/account/api)
+
+2. Now Deploy
+    <br>
+<a href='' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 ---
  ### Termux Guide
 
@@ -65,5 +69,5 @@ SUPPORT GROUP
 (en cours de développement)
 ## Developpeur :
  
-  [**Cyber emoji**](https://github.com/Emojioff)  <br>
+  *cyber emoji*(https://github.com/Emojioff)  <br>
 ---
