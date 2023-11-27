@@ -1,15 +1,11 @@
-## Mecha Orion-md Multi Device Whatsapp Bot.
-
-***
-
+### MECHA ORION-MD 
 ### SETUP
 
-1. Fork The Repo
+1. Scan Qr
     <br>
-(en cours de développement)
-2. Scan Qr
-    <br>
-(en cours de développement) 
+    <a href='' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+ 
 ### Mecha Orion-md Deploy Methods
 
 -------
