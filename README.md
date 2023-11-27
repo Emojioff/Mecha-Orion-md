@@ -1,4 +1,4 @@
-## INRL Multi Device Whatsapp Bot.
+## Mecha Orion-md Multi Device Whatsapp Bot.
 
 ***
 
