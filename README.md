@@ -69,7 +69,7 @@ Groupe de soutien
 [Click Here]
 (en cours de développement)
 ## Developpeur :
- 
-  *Cyber Emoji*
-  *Joël Tyler*
----
+
+ <h1>Cyber emoji</h1>
+ <h1>Joël Tyler</h1>
+
