@@ -1,6 +1,36 @@
 ![banner](https://telegra.ph/file/0e821f318907e36ce61b4.jpg)
+Mecha Orion-md  un bot multi-devices conçu pour vos tâche  WhatsApp avec des fonctionnalités utiles Mecha Orion-md effectue le travail que vous trouvez ça ennuyeux amusant il permet d'interagir avec des stickers ou de faciliter et de gérer des groupes WhatsApp n'hésitez pas le déployé pour voir c'est fonctionnalité amusante merci.
 <p align="center"><h1>Mecha Orion-md </h1><br> </p>
 <a href="https://www.buymeacoffee.com/mechaoriont"><img src="https://img.buymeacoffee.com/button-api/?text=Soutien au développeur &emoji=&slug=Mc-md &button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a><br>
+
+### Mecha Orion-md Méthodes de déploiement
+
+-------
+## Deployé vers Heroku ↓
+
+<a href="" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deployé" height="112" width="310" /></a>
+  <div>
+<br>
+<a href="" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deployé" height="112" width="310" /></a>
+  <div>
+<br>
+
+## Deployé vers Koyeb ↓
+
+<a href="q" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deployé" height="112" width="310" /></a>
+  <div>
+<br>
+<div>
+  <br>
+
+
+## Deployé vers Railway ↓
+<a href="" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
+  <div>
+<br>
+<div>
+  <br>
+  
 
 
 
@@ -11,63 +41,7 @@
   </p>
   <br>
       
-### Installation 
 
-1. Scan Qr
-    <br>
-    <a href='' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
- 
-### Mecha Orion-md Méthodes de déploiement
-
--------
-
-#### Déploiement par Heroku 
-
-1. Si vous n'avez pas de compte dans Heroku. Créez un compte.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-3. déployé maintenant 
-    <br>
-<a href='' target="_blank"><img alt='DEPLOYÉ' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
----
-#### Deployer sur Koyeb
-1. Si vous n'avez pas de compte sur koyeb. Créez un compte.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-3. Obtenir [DATABASE_URL](en cours de développement) 
-
-4. Obtenir [Koyeb api key](https://app.koyeb.com/account/api)
-
-2. Déployer maintenant 
-    <br>
-<a href='' target="_blank"><img alt='DEPLOYÉ' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
----
- ### Guide Termux
-
- ```bash
-$termux-setup-storage
-$apt update
-$apt upgrade
-$pkg update && pkg upgrade
-$pkg install python
-$pkg install python2
-$pkg install bash
-$pkg install libwebp
-$pkg install git -y
-$pkg install nodejs -y 
-$pkg install ffmpeg -y 
-$pkg install wget
-$pkg install imagemagick -y
-$git clone Your Forked Github Url
-$cd mecha orion-md
-$npm i
-$npm start
-```
- 
  ### Support
 
 Groupe de soutien 
@@ -76,10 +50,3 @@ Groupe de soutien
 ![banner](https://telegra.ph/file/c96e788f3a69a60a2bad3.jpg)
 ---
 ### AUTEUR
-
- <h2>Cyber emoji</h2>
- 
-![banner](https://telegra.ph/file/0d8f81365952ab856b47e.jpg)
- <h2>Joël Tyler</h2>
- 
-![banner](https://telegra.ph/file/b6d65e714426947c12bf2.jpg)
