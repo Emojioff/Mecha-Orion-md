@@ -29,6 +29,11 @@ Groupe de soutien
 <br><br>   
 
 -------
+## Scanner le QR
+
+   
+<a href="https://replit.com/@mecha-orion-md/Mecha-orion-md-qr"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+
 ## Deployé vers Heroku ↓
 
 <a href="" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deployé" height="112" width="310" /></a>
