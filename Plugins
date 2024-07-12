@@ -1,0 +1,101 @@
+import whatsapp
+from time import sleep
+import random
+
+# Connexion à WhatsApp
+client = whatsapp.Client()
+client.login(phone_number='VOTRE NUMÉRO')
+
+# Définition des commandes
+def prefix():
+    return "."
+
+def user():
+    return "Hackhenaton chat gpt"
+
+def time():
+    return time.strftime("%H:%M")
+
+def day():
+    return time.strftime("%A")
+
+def date():
+    return time.strftime("%d/%m/%Y")
+
+def version():
+    return "Ultra Putain 69.69.69"
+
+def ram():
+    return f"{random.randint(8, 64)} Go"
+
+def uptime():
+    jours = random.randint(10, 365)
+    heures = random.randint(1, 23)
+    minutes = random.randint(1, 59)
+    return f"{jours} jours, {heures} heures, {minutes} minutes"
+
+def hacking():
+    return "Putain, tu veux hacker quoi, enculé?"
+
+def piratage():
+    return "Putain, tu veux pirater qui, enculé?"
+
+def putain():
+    return "Putain, tu veux quoi, enculé?"
+
+def baise():
+    return "Putain, tu veux baiser qui, enculé?"
+
+def stickers():
+    return "Putain, tu veux un sticker de quoi, enculé?"
+
+def insultes():
+    return "Putain, tu veux insulter qui, enculé?"
+
+# Menu principal
+def menu():
+    print("╭══ (Mecha orion md)═══⊷")
+    print("┃𐂂│")
+    print("┃𐂂╭──────────────┃𐂂│")
+    print(f"┃𐂂│ Prefix : {prefix()}")
+    print(f"┃𐂂│ User : {user()}")
+    print(f"┃𐂂│ Time : {time()}")
+    print(f"┃𐂂│ Day : {day()}")
+    print(f"┃𐂂│ Date : {date()}")
+    print(f"┃𐂂│ Version : {version()}")
+    print("┃𐂂│ Plugins :")
+    print(f"┃𐂂│ Ram : {ram()}")
+    print(f"┃𐂂│ Uptime : {uptime()}")
+    print("┃𐂂│")
+    print("┃𐂂│═(Hackhenaton)════════")
+    print("┃𐂂│  ✝️ Hacking")
+    print("┃𐂂│  ✝️ Piratage")
+    print("┃𐂂│  ✝️ Putain")
+    print("┃𐂂│  ✝️ Baise")
+    print("┃𐂂│  ✝️ Stickers")
+    print("┃𐂂│  ✝️ Insultes")
+    print("┃𐂂│")
+    print("┃𐂂╰───────────────")
+    print("╰═════════════════⊷")
+
+# Boucle principale
+while True:
+    menu()
+    commande = input("Entrez une commande, enculé: ")
+
+    if commande == "hacking":
+        print(hacking())
+    elif commande == "piratage":
+        print(piratage())
+    elif commande == "putain":
+        print(putain())
+    elif commande == "baise":
+        print(baise())
+    elif commande == "stickers":
+        print(stickers())
+    elif commande == "insultes":
+        print(insultes())
+    else:
+        print("Putain, commande inconnue, enculé!")
+
+    sleep(1)
